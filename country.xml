@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rotator>
+
+  <panel>
+    <number>1</number>
+    <image>https://github.com/joeykvgc/kvgcradioapp/blob/main/countrymetal.png?raw=true</image>
+    <url>https://kvgcradio2.com/</url>
+    <redirect>n</redirect>
+  </panel>
+  
+  <panel>
+    <number>2</number>
+    <image>https://github.com/joeykvgc/kvgcradioapp/blob/main/news.png?raw=true</image>
+    <url>https://kvgcradio.com/news</url>
+    <redirect>n</redirect>
+  </panel>
+  
+  <panel>
+    <number>3</number>
+    <image>https://github.com/joeykvgc/kvgcradioapp/blob/main/weather.png?raw=true</image>
+    <url>https://forecast.weather.gov/MapClick.php?lat=38.347120000000075&lon=-120.77339999999998#.X71sD2hKguV</url>
+    <redirect>n</redirect>
+  </panel>
+
+<panel>
+    <number>3</number>
+    <image>https://github.com/joeykvgc/kvgcradioapp/blob/main/traffic.png?raw=true</image>
+    <url>https://roads.dot.ca.gov/</url>
+    <redirect>n</redirect>
+  </panel>
+
+</rotator>
