@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rotator>
+
+  <panel>
+    <number>1</number>
+    <image>https://img1.wsimg.com/isteam/ip/d00b1cdf-991b-41ca-8cd2-0b1c0d4bb8d5/country1.png/:/cr=t:0%25,l:0%25,w:100%25,h:100%25</image>
+    <url>https://kvgcradio2.com/</url>
+    <redirect>n</redirect>
+  </panel>
+  
+  <panel>
+    <number>2</number>
+    <image>https://img1.wsimg.com/isteam/ip/d00b1cdf-991b-41ca-8cd2-0b1c0d4bb8d5/news.png/:/cr=t:0%25,l:0%25,w:100%25,h:100%25</image>
+    <url>https://kvgcradio.com/news</url>
+    <redirect>n</redirect>
+  </panel>
+  
+  <panel>
+    <number>3</number>
+    <image>https://img1.wsimg.com/isteam/ip/d00b1cdf-991b-41ca-8cd2-0b1c0d4bb8d5/weather.png/:/cr=t:0%25,l:0%25,w:100%25,h:100%25</image>
+    <url>https://forecast.weather.gov/MapClick.php?lat=38.347120000000075&lon=-120.77339999999998#.X71sD2hKguV</url>
+    <redirect>n</redirect>
+  </panel>
+
+<panel>
+    <number>3</number>
+    <image>https://img1.wsimg.com/isteam/ip/d00b1cdf-991b-41ca-8cd2-0b1c0d4bb8d5/traffic.png/:/cr=t:0%25,l:0%25,w:100%25,h:100%25</image>
+    <url>https://roads.dot.ca.gov/</url>
+    <redirect>n</redirect>
+  </panel>
+
+</rotator>
